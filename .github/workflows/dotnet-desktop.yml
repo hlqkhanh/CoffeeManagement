@@ -31,11 +31,11 @@ jobs:
 
       - name: Run tests
         if: always()
-        run: dotnet test ./tests/CoffeeManagement.Tests/CoffeeManagement.Tests.csproj --configuration Release --no-build --logger "trx;LogFileName=test_results.trx"
+        run: dotnet test ./CoffeeManagement.Tests/CoffeeManagement.Tests.csproj --configuration Release --no-build --logger "trx;LogFileName=test_results.trx"
 
       - name: Publish WPF app (optional produce single-folder)
         run: |
-          dotnet publish ./src/CoffeeManagement/CoffeeManagement.csproj \
+          dotnet publish .CoffeeManagement/CoffeeManagement.csproj \
             -c Release \
             -r win-x64 \
             --self-contained false \
