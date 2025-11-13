@@ -1,0 +1,49 @@
+name: WPF CI (Build, Test, Artifact)
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-windows:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Setup .NET SDK
+        uses: actions/setup-dotnet@v4
+        with:
+          # Khóa version nếu bạn có global.json hoặc muốn cụ thể, ví dụ "8.0.x" hoặc "7.0.x"
+          dotnet-version: '8.0.x'
+
+      - name: Setup MSBuild tools (locate MSBuild on runner)
+        uses: microsoft/setup-msbuild@v1
+
+      - name: Restore NuGet packages
+        run: dotnet restore ./CoffeeManagement.sln
+
+      - name: Build solution (Release)
+        run: dotnet build ./CoffeeManagement.sln --configuration Release --no-restore
+
+      - name: Run tests
+        if: always()
+        run: dotnet test ./tests/CoffeeManagement.Tests/CoffeeManagement.Tests.csproj --configuration Release --no-build --logger "trx;LogFileName=test_results.trx"
+
+      - name: Publish WPF app (optional produce single-folder)
+        run: |
+          dotnet publish ./src/CoffeeManagement/CoffeeManagement.csproj \
+            -c Release \
+            -r win-x64 \
+            --self-contained false \
+            --no-build \
+            -o ./artifacts/publish
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: wpf-artifact
+          path: ./artifacts/publish
