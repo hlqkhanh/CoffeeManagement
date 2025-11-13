@@ -17,10 +17,9 @@ jobs:
       - name: Setup .NET SDK
         uses: actions/setup-dotnet@v4
         with:
-          # Khóa version nếu bạn có global.json hoặc muốn cụ thể, ví dụ "8.0.x" hoặc "7.0.x"
           dotnet-version: '8.0.x'
 
-      - name: Setup MSBuild tools (locate MSBuild on runner)
+      - name: Setup MSBuild tools
         uses: microsoft/setup-msbuild@v1
 
       - name: Restore NuGet packages
@@ -31,16 +30,10 @@ jobs:
 
       - name: Run tests
         if: always()
-        run: dotnet test ./CoffeeManagement.Test/CoffeeManagement.Tests.csproj --configuration Release --no-build --logger "trx;LogFileName=test_results.trx"
+        run: dotnet test ./CoffeeManagement.Tests/CoffeeManagement.Tests.csproj --configuration Release --no-build --logger "trx;LogFileName=test_results.trx"
 
-      - name: Publish WPF app (optional produce single-folder)
-        run: |
-          dotnet publish ./CoffeeManagement/CoffeeManagement.csproj ^
-            -c Release ^
-            -r win-x64 ^
-            --self-contained false ^
-            --no-build ^
-            -o ./artifacts/publish
+      - name: Publish WPF app (Release)
+        run: dotnet publish ./CoffeeManagement/CoffeeManagement.csproj -c Release -r win-x64 --self-contained false --no-build -o ./artifacts/publish
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
