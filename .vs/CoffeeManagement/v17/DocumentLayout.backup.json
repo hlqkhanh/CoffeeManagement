@@ -1,0 +1,626 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7989F369-57E8-4FE6-A98C-8A3A58E07B46}|CoffeeManagement.Test\\CoffeeManagement.Tests.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.test\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7989F369-57E8-4FE6-A98C-8A3A58E07B46}|CoffeeManagement.Test\\CoffeeManagement.Tests.csproj|solutionrelative:coffeemanagement.test\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7989F369-57E8-4FE6-A98C-8A3A58E07B46}|CoffeeManagement.Test\\CoffeeManagement.Tests.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.test\\coffeemanagement.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7989F369-57E8-4FE6-A98C-8A3A58E07B46}|CoffeeManagement.Test\\CoffeeManagement.Tests.csproj|solutionrelative:coffeemanagement.test\\coffeemanagement.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A2E9F1-B71C-4454-B749-7740EE9672D6}|CoffeeManagement.BLL\\CoffeeManagement.BLL.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A2E9F1-B71C-4454-B749-7740EE9672D6}|CoffeeManagement.BLL\\CoffeeManagement.BLL.csproj|solutionrelative:coffeemanagement.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A2E9F1-B71C-4454-B749-7740EE9672D6}|CoffeeManagement.BLL\\CoffeeManagement.BLL.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A2E9F1-B71C-4454-B749-7740EE9672D6}|CoffeeManagement.BLL\\CoffeeManagement.BLL.csproj|solutionrelative:coffeemanagement.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.dal\\dao\\menuitemsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|solutionrelative:coffeemanagement.dal\\dao\\menuitemsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.dal\\dao\\iuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|solutionrelative:coffeemanagement.dal\\dao\\iuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.dal\\dao\\ipromotiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|solutionrelative:coffeemanagement.dal\\dao\\ipromotiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.dal\\dao\\iorderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|solutionrelative:coffeemanagement.dal\\dao\\iorderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.dal\\dao\\imenuitemsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|solutionrelative:coffeemanagement.dal\\dao\\imenuitemsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|solutionrelative:coffeemanagement.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.dal\\repositories\\imenuitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|solutionrelative:coffeemanagement.dal\\repositories\\imenuitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.dal\\repositories\\promotionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|solutionrelative:coffeemanagement.dal\\repositories\\promotionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.dal\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|solutionrelative:coffeemanagement.dal\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement\\stafforders.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\stafforders.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement\\stafforders.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\stafforders.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement\\adminpromotionsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\adminpromotionsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement\\adminpromotionsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\adminpromotionsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement\\promotioneditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\promotioneditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement\\adminallordersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\adminallordersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement\\adminallordersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\adminallordersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|solutionrelative:coffeemanagement.dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement\\menuui.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\menuui.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement\\admindashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\admindashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement\\orderhistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\orderhistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement\\admindashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\admindashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement\\userprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\userprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CA792336-2569-4612-8B38-0EE9DD2EDCEB}|CoffeeManagement\\CoffeeManagement.csproj|solutionrelative:coffeemanagement\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.dal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|solutionrelative:coffeemanagement.dal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|solutionrelative:coffeemanagement.dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84A2E9F1-B71C-4454-B749-7740EE9672D6}|CoffeeManagement.BLL\\CoffeeManagement.BLL.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A2E9F1-B71C-4454-B749-7740EE9672D6}|CoffeeManagement.BLL\\CoffeeManagement.BLL.csproj|solutionrelative:coffeemanagement.bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|d:\\fpt_process\\s5_fa25\\prn212\\final_project\\coffeemanagement\\coffeemanagement\\coffeemanagement.dal\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD045043-CE3F-45B6-AB89-78CF5C626F20}|CoffeeManagement.DAL\\CoffeeManagement.DAL.csproj|solutionrelative:coffeemanagement.dal\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.Test\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement.Test\\UserServiceTests.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.Test\\UserServiceTests.cs",
+              "RelativeToolTip": "CoffeeManagement.Test\\UserServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:26:52.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoffeeManagement.Tests.csproj",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.Test\\CoffeeManagement.Tests.csproj",
+              "RelativeDocumentMoniker": "CoffeeManagement.Test\\CoffeeManagement.Tests.csproj",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.Test\\CoffeeManagement.Tests.csproj",
+              "RelativeToolTip": "CoffeeManagement.Test\\CoffeeManagement.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T03:26:03.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement.BLL\\Services\\UserService.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "CoffeeManagement.BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAYwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:24:11.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement.BLL\\Class1.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.BLL\\Class1.cs",
+              "RelativeToolTip": "CoffeeManagement.BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T15:46:06.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuItemsDAO.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\DAO\\MenuItemsDAO.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement.DAL\\DAO\\MenuItemsDAO.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\DAO\\MenuItemsDAO.cs",
+              "RelativeToolTip": "CoffeeManagement.DAL\\DAO\\MenuItemsDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:40:22.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserDAO.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\DAO\\IUserDAO.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement.DAL\\DAO\\IUserDAO.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\DAO\\IUserDAO.cs",
+              "RelativeToolTip": "CoffeeManagement.DAL\\DAO\\IUserDAO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:40:14.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement.DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CoffeeManagement.DAL\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:37:45.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMenuItemsRepository.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\Repositories\\IMenuItemsRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement.DAL\\Repositories\\IMenuItemsRepository.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\Repositories\\IMenuItemsRepository.cs",
+              "RelativeToolTip": "CoffeeManagement.DAL\\Repositories\\IMenuItemsRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:37:29.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PromotionRepository.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\Repositories\\PromotionRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement.DAL\\Repositories\\PromotionRepository.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\Repositories\\PromotionRepository.cs",
+              "RelativeToolTip": "CoffeeManagement.DAL\\Repositories\\PromotionRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:37:26.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement.DAL\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "CoffeeManagement.DAL\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:37:22.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPromotionDAO.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\DAO\\IPromotionDAO.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement.DAL\\DAO\\IPromotionDAO.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\DAO\\IPromotionDAO.cs",
+              "RelativeToolTip": "CoffeeManagement.DAL\\DAO\\IPromotionDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:37:16.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMenuItemsDAO.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\DAO\\IMenuItemsDAO.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement.DAL\\DAO\\IMenuItemsDAO.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\DAO\\IMenuItemsDAO.cs",
+              "RelativeToolTip": "CoffeeManagement.DAL\\DAO\\IMenuItemsDAO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:37:16.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderDAO.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\DAO\\IOrderDAO.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement.DAL\\DAO\\IOrderDAO.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\DAO\\IOrderDAO.cs",
+              "RelativeToolTip": "CoffeeManagement.DAL\\DAO\\IOrderDAO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:22:23.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "CoffeeManagement\\appsettings.json",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\appsettings.json",
+              "RelativeToolTip": "CoffeeManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T07:03:06.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PromotionEditDialog.xaml",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\PromotionEditDialog.xaml",
+              "RelativeDocumentMoniker": "CoffeeManagement\\PromotionEditDialog.xaml",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\PromotionEditDialog.xaml",
+              "RelativeToolTip": "CoffeeManagement\\PromotionEditDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T14:23:30.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminAllOrdersView.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\AdminAllOrdersView.xaml.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement\\AdminAllOrdersView.xaml.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\AdminAllOrdersView.xaml.cs",
+              "RelativeToolTip": "CoffeeManagement\\AdminAllOrdersView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:18:50.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CoffeeManagement\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\MainWindow.xaml",
+              "RelativeToolTip": "CoffeeManagement\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T13:52:36.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "CoffeeManagement\\LoginWindow.xaml",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\LoginWindow.xaml",
+              "RelativeToolTip": "CoffeeManagement\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T14:40:46.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminPromotionsView.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\AdminPromotionsView.xaml.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement\\AdminPromotionsView.xaml.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\AdminPromotionsView.xaml.cs",
+              "RelativeToolTip": "CoffeeManagement\\AdminPromotionsView.xaml.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAqwKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:24:02.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StaffOrders.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\StaffOrders.xaml.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement\\StaffOrders.xaml.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\StaffOrders.xaml.cs",
+              "RelativeToolTip": "CoffeeManagement\\StaffOrders.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T14:36:29.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CoffeeManagement\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wFgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:57:58.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StaffOrders.xaml",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\StaffOrders.xaml",
+              "RelativeDocumentMoniker": "CoffeeManagement\\StaffOrders.xaml",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\StaffOrders.xaml",
+              "RelativeToolTip": "CoffeeManagement\\StaffOrders.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T14:36:25.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement.DAL\\Models\\Order.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\Models\\Order.cs",
+              "RelativeToolTip": "CoffeeManagement.DAL\\Models\\Order.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:19:32.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminPromotionsView.xaml",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\AdminPromotionsView.xaml",
+              "RelativeDocumentMoniker": "CoffeeManagement\\AdminPromotionsView.xaml",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\AdminPromotionsView.xaml",
+              "RelativeToolTip": "CoffeeManagement\\AdminPromotionsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T14:23:59.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MenuUI.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\MenuUI.xaml.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement\\MenuUI.xaml.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\MenuUI.xaml.cs",
+              "RelativeToolTip": "CoffeeManagement\\MenuUI.xaml.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAqwIIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T06:35:59.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminDashboardView.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\AdminDashboardView.xaml.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement\\AdminDashboardView.xaml.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\AdminDashboardView.xaml.cs",
+              "RelativeToolTip": "CoffeeManagement\\AdminDashboardView.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwC8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T07:03:18.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminAllOrdersView.xaml",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\AdminAllOrdersView.xaml",
+              "RelativeDocumentMoniker": "CoffeeManagement\\AdminAllOrdersView.xaml",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\AdminAllOrdersView.xaml",
+              "RelativeToolTip": "CoffeeManagement\\AdminAllOrdersView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T14:13:22.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.BLL\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement.BLL\\Services\\OrderService.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.BLL\\Services\\OrderService.cs",
+              "RelativeToolTip": "CoffeeManagement.BLL\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:22:06.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement.DAL\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "CoffeeManagement.DAL\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:22:17.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderHistory.xaml",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\OrderHistory.xaml",
+              "RelativeDocumentMoniker": "CoffeeManagement\\OrderHistory.xaml",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\OrderHistory.xaml",
+              "RelativeToolTip": "CoffeeManagement\\OrderHistory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T14:13:14.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserProfile.xaml",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\UserProfile.xaml",
+              "RelativeDocumentMoniker": "CoffeeManagement\\UserProfile.xaml",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\UserProfile.xaml",
+              "RelativeToolTip": "CoffeeManagement\\UserProfile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T13:13:16.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminDashboardView.xaml",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\AdminDashboardView.xaml",
+              "RelativeDocumentMoniker": "CoffeeManagement\\AdminDashboardView.xaml",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\AdminDashboardView.xaml",
+              "RelativeToolTip": "CoffeeManagement\\AdminDashboardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T10:01:48.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserProfile.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\UserProfile.xaml.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement\\UserProfile.xaml.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement\\UserProfile.xaml.cs",
+              "RelativeToolTip": "CoffeeManagement\\UserProfile.xaml.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAIBJwKwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:19:38.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement.DAL\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\Models\\OrderItem.cs",
+              "RelativeToolTip": "CoffeeManagement.DAL\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:18:55.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "CoffeeManagement.DAL\\Models\\MenuItem.cs",
+              "ToolTip": "D:\\FPT_PROCESS\\S5_FA25\\PRN212\\Final_Project\\CoffeeManagement\\CoffeeManagement\\CoffeeManagement.DAL\\Models\\MenuItem.cs",
+              "RelativeToolTip": "CoffeeManagement.DAL\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T06:38:11.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
